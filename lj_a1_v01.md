@@ -47,9 +47,32 @@ bio
 *describe the features that can be demonstrated*
 *list 5 features and explain how we will validate it has been implemented*
 
+1. Our system should be able to store information about user accounts, and allow users to create new accounts or delete their currently existing account
+Once implemented this can be tested by attempting to create a number of new accounts, and manually inspecting the database contents after that has been done, then deleting an account and manually inspecting database contents to ensure they match expectations.
+
+2. Our system should be capable of storing information on various soccer tournaments in a mongoDB instance
+Once implemented, we can test this by attempting to populate the database with static data and subsequently manually inspecting database contents to ensure they are what they should be.
+
+3. Our system should be able to display information on overall tournaments as well as individual matches to the user
+Once implemented, we can test this by manually checking the database to see what tournaments should be displayed to the user, and then using the system to verify that that does occur. Same process can be followed to perform a spot check on an individual match to ensure the system is showing the user the information it should be.
+
+4. Our system should allow the user to nominate their picks for the currently chosen match (whether simply picking who they think will win or the final score), with this data then being saved in the database
+Once implemented, we can test this by manually inspecting the database and ensuring that the picks data we have entered via the website has in fact been saved to the database as it should have been.
+
+5. Our system should display to users the actual results for games that have concluded where that user had a pick, as well as data about their overall picking record
+Manual inspection of the database can be used to ensure that data shown on the results page is correct, both in terms of the game result and the user's pick/whether or not the user's pick was correct/that user's overall picking record to this point
+
+At each stage, a more technical testing process could be followed - i.e. selenium (or something similar) could be used to automate the process of extensively testing objective #3 (i.e. to ensure that ALL tournaments in the database are displayed, and that ALL information for those tournaments is viewable, and the same for individual games, as opposed to manual spot checks of individual tournaments/games)
+
+
+
 ##### Extended features
 *features to be added if time permits*
 *list at least 3 and explain how we will validate it has been implemented*
+
+1. Our system should source tournament and game data in real-time from APIs for tournaments where an API is available.
+This can be tested by entering static data into the database that differs from that currently being reported by an API, and using the website to see if it displays that static data or if it has retrieved data using the API and displayed that instead.
+
 
 #### Project Motivation
 *describe what motivated the group to choose this project*
