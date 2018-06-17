@@ -22,8 +22,15 @@ bio
 ##### Matt Greig
 bio
 
-##### Blair Fraser
-bio
+##### Blair Fraser (s3641830@student.rmit.edu.au)
+I have some prior experience with Java, Perl, PHP, Python (the latter of which I’m using occasionally in my current non-programming job to automate workloads). I enjoy programming in general, with a current preference towards backend development using dynamically typed languages (although I have not at this stage had much call to involve myself in frontend coding).
+
+As well as the above languages, I have some experience working with RDBMSes, but am looking forward to getting experience with technologies I have not previously been exposed to (version control systems (specifically git), NoSQL and javascript frontend and backend frameworks (the MEAN stack).
+
+Challenges during the project will be getting up to speed on these new (to me) technologies to the point that I am able to contribute as effectively as I want to.
+
+Tasks that I would envisage myself working on are could be anything applicable to my level of skill at the time utilizing technologies belonging to the MEAN stack (frontend or backend-oriented tasks), leveraging my existing python knowledge to write a script to harvest data from APIs, transform it to the required format and write it to the mongoDB instance (though something like this wouldn’t be required at the extended functionality stage), helping generate and manage documentation.
+
 
 ##### Tyrone Cook
 bio
