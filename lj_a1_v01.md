@@ -75,7 +75,7 @@ bio
 #### Adam Rowsell
 bio
 
-#### ????
+#### Shae Tatlock`
 bio
 
 ### Demonstrable Outcomes
@@ -124,6 +124,13 @@ This can be tested by entering static data into the database that differs from t
 
 #### Beyond Current Capabilities
 *explain how it will extend current IT knowledge*
+* Using Public APIs
+  * practical experience with authentication processes
+  * parsing JSON data from different sources
+* AngularJS
+  * experience with controllers and two-way data binding
+*
+
 
 #### Project Risks
 *list 3 project risks that would majorly interfere with project outcome*
@@ -188,12 +195,22 @@ This can be tested by entering static data into the database that differs from t
 * Non-opinionated
 * Easy to use
 
+#### Bootstrap
+##### A front-end, CSS framework for easy-to-start UI customisation
+
+* Easy-to-use grid layout
+* Facilitates responsive design out-of-the-box
+* Actively developed and updated
+
+
 *Each tool/resource needs*
 - Name
 - short Description
 - rationale for using
 - specific version and cost (if any?)
 - describe any alternatives not used
+
+
 
 #### Collaborative Workspaces
 *Describe workspaces used to collaborate*
