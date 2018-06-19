@@ -36,7 +36,7 @@ I also talk and conferences and user groups - at the moment about functional pro
 
 I am a natural leader and am happy to step up when decisions need to be made. I also have strong technical ability - especially in the web development space.
 
-I pick up technologies quickly and am able to communicate complicated concepts quickly and simply to both technical and none technical clients/colleagues. 
+I pick up technologies quickly and am able to communicate complicated concepts quickly and simply to both technical and none technical clients/colleagues.
 
 ##### Challenges
 
@@ -50,7 +50,14 @@ I feel it will stretch my communication skills.
 * DevOps
 
 #### Matt Greig
-bio
+##### s3439728@student.rmit.edu.au
+I've spent the best part of the last two decades in the film and television industry, beginning with on-set production work, and then for the past 14 years in Visual Effects (VFX) and post-production. In that time I have worked as an artist and a lead, and for the past 6 years have been an on-set and departmental supervisor. VFX, by it's nature, is a constantly evolving field, progressing technologically with each new production and as such I've found myself relying on self-taught skills in Python and C++ to develop new tools and plugins to existing platforms, as well as automating the production pipeline to squeeze every last bit of efficiency.
+
+The film industry has certainly provided plentiful experience in working to set-in-stone schedules, and spending most of my career in post-production, at the compressed end of a delivery schedule, I've certainly learned a lot about *getting the job done*. Deadlines aren't something I find intimidating. I'm certainly interested in this project; as a keen user of the web, and dynamic platforms, I'm looking forward to the opportunity to experience the development of one first-hand.
+
+To my mind, the challenge for this assignment will be translating many of the experiences I've had working Pythonically with database API's and front-end UI's using QT, to JavaScript and the Node, Express and (especially) Angular frameworks.
+
+With experience in team-management in my professional career, and to mitigate our geographic and timezone separation with our lead, Luke, I'm happy to help guide the project forward. I especially look forward to getting elbows-deep in the codebase once we commence.
 
 #### Blair Fraser (s3641830@student.rmit.edu.au)
 I have some prior experience with Java, Perl, PHP, Python (the latter of which I’m using occasionally in my current non-programming job to automate workloads). I enjoy programming in general, with a current preference towards backend development using dynamically typed languages (although I have not at this stage had much call to involve myself in frontend coding).
