@@ -1,9 +1,12 @@
-### Part 1 - *What*
+# Assignment 1 - Late Joiners
 
-#### Project Name:
-##### Late Joiners Sports Tipping App
+## Part 1 - *What*
 
-#### Project Description:
+### Project Name:
+#### Late Joiners Sports Tipping App
+
+### Project Description:
+
 A Web application that will allow users to sign up and place their predictions of the results of a variety of sporting tournaments, and track their success against other users.
 
 Users will be able to select from a variety of upcoming matches, with the option not just to choose the outcome, but predict scores/results as well.
@@ -14,10 +17,37 @@ At the end of the tournament, the user (or users) with the best record can claim
 
 The application will be available to users across a variety of devices, from desktop browsers, to tablets and mobile devices.
 
-#### The Team
+### The Team
 
-##### Luke Warren
-bio
+#### Luke Warren
+##### s3409172@student.rmit.edu.au
+
+##### Background
+
+I am a software engineer with 5 years experience. I specialise mainly in web based technologies but have also worked on mobile apps as well as purely backend services.
+
+The start of my career saw me work mainly in the CMS smace. Augmenting .NET based CMSs like DNN and and Umbraco for brochure and ecommerce websites.
+
+At the moment, I am co-lead on a large team working on an online quotation application for a large insurance provider in South Africa.
+
+I also talk and conferences and user groups - at the moment about functional programming in JavaScript and run a number of training initiatives at work.
+
+##### Strong Points
+
+I am a natural leader and am happy to step up when decisions need to be made. I also have strong technical ability - especially in the web development space.
+
+I pick up technologies quickly and am able to communicate complicated concepts quickly and simply to both technical and none technical clients/colleagues. 
+
+##### Challenges
+
+My challenges for the project mainly revolve around organising and communicating with a dispersed team with significant time zone differences.
+
+I feel it will stretch my communication skills.
+
+##### Contributes to The Team
+
+* Technical Lead
+* DevOps
 
 ##### Matt Greig
 bio
