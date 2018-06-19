@@ -49,10 +49,10 @@ I feel it will stretch my communication skills.
 * Technical Lead
 * DevOps
 
-##### Matt Greig
+#### Matt Greig
 bio
 
-##### Blair Fraser (s3641830@student.rmit.edu.au)
+#### Blair Fraser (s3641830@student.rmit.edu.au)
 I have some prior experience with Java, Perl, PHP, Python (the latter of which I’m using occasionally in my current non-programming job to automate workloads). I enjoy programming in general, with a current preference towards backend development using dynamically typed languages (although I have not at this stage had much call to involve myself in frontend coding).
 
 As well as the above languages, I have some experience working with RDBMSes, but am looking forward to getting experience with technologies I have not previously been exposed to (version control systems (specifically git), NoSQL and javascript frontend and backend frameworks (the MEAN stack).
@@ -62,18 +62,18 @@ Challenges during the project will be getting up to speed on these new (to me) t
 Tasks that I would envisage myself working on are could be anything applicable to my level of skill at the time utilizing technologies belonging to the MEAN stack (frontend or backend-oriented tasks), leveraging my existing python knowledge to write a script to harvest data from APIs, transform it to the required format and write it to the mongoDB instance (though something like this wouldn’t be required at the extended functionality stage), helping generate and manage documentation.
 
 
-##### Tyrone Cook
+#### Tyrone Cook
 bio
 
-##### Adam Rowsell
+#### Adam Rowsell
 bio
 
-##### ????
+#### ????
 bio
 
-#### Demonstrable Outcomes
+### Demonstrable Outcomes
 
-##### Features
+#### Features
 *describe the features that can be demonstrated*
 *list 5 features and explain how we will validate it has been implemented*
 
@@ -94,9 +94,7 @@ Manual inspection of the database can be used to ensure that data shown on the r
 
 At each stage, a more technical testing process could be followed - i.e. selenium (or something similar) could be used to automate the process of extensively testing objective #3 (i.e. to ensure that ALL tournaments in the database are displayed, and that ALL information for those tournaments is viewable, and the same for individual games, as opposed to manual spot checks of individual tournaments/games)
 
-
-
-##### Extended features
+#### Extended features
 *features to be added if time permits*
 *list at least 3 and explain how we will validate it has been implemented*
 
@@ -104,23 +102,23 @@ At each stage, a more technical testing process could be followed - i.e. seleniu
 This can be tested by entering static data into the database that differs from that currently being reported by an API, and using the website to see if it displays that static data or if it has retrieved data using the API and displayed that instead.
 
 
-#### Project Motivation
+### Project Motivation
 *describe what motivated the group to choose this project*
 
 - We felt it was a good opportunity to get exposure to a stack we wanted experience in.
 - Provides a potentially handy portfolio item post-degree
 - Was pertinent given the popularity of sporting results in modern culture
 
-#### Project Justification
+### Project Justification
 *explain how project scope fulfills below criteria*
 
-##### Justified Workload
+#### Justified Workload
 *develop project schedule*
 
-##### Beyond Current Capabilities
+#### Beyond Current Capabilities
 *explain how it will extend current IT knowledge*
 
-##### Project Risks
+#### Project Risks
 *list 3 project risks that would majorly interfere with project outcome*
 1. API goes offline/changes output format: After implementing the extended feature for real-time data integration utilizing an API/a number of APIs, it is possible that the API may go offline, or that the way it structures output data could change. We could attempt to limit this issue by designing our system to be capable of sourcing data for one tournament from a number of different APIs, to retain realtime functionality even when one API is unavailable. Otherwise the last retrieved realtime data would be stored in the database and accessed instead, thus limiting the problem (though not solving it completely). In a real-world solution we would also want a notification to be sent to an administrator when this issue is encountered.
 2. Feature creep: It is conceivable that we might be tempted at some stage to add functionality beyond that we are originally planning on. If we end up attempting to add significant additional functionality that could divert effort away from fulfilling the originally planned features/extended features. We can minimize this issue by discussing any new ideas as we have them to determine whether implementing such ideas could cause a problem in this way, and if so whether we really want to work on it or not.
@@ -135,6 +133,53 @@ This can be tested by entering static data into the database that differs from t
 
 #### Resources and Tools
 *list the technology, tools and resources you will use for each phase of the project*
+
+##### Git
+######  A version control system
+
+* Ensure easy rollback of code changes
+* Merging of changes
+    * Contributors can work concurrently without getting in anothers way
+
+###### Alternatives
+
+* SVN
+* Mecurial
+* TFS
+
+##### Node
+###### A JavaScript engine for the server
+
+* Will allow us to write both JavaScript on the server
+* Code reuse on client and server and reduced language switching
+* A plethora of open source packages easily installable via NPM
+* Cross platform
+    * Team members use Windows, Linux and Mac
+
+##### Angular
+###### A front-end single page application framework
+
+* Allows for rapid creation of SPA applications
+* Small learning curve
+* Comes with a CLI tool to handle generation of boilerplate code and building of the application
+
+##### Mongo
+###### NoSQL database
+
+* Easily stores JSON objects as documents coming from the frontend
+* Cross-platform
+
+###### Alternatives
+
+* NeDB
+* PostGres
+
+##### Express
+###### A REST API routing framework for node
+
+* Makes it easy to create a backend API in Node
+* Non-opinionated
+* Easy to use
 
 *Each tool/resource needs*
 - Name
