@@ -127,7 +127,7 @@ This can be tested by entering static data into the database that differs from t
 * Using Public APIs
   * practical experience with authentication processes
   * parsing JSON data from different sources
-* AngularJS
+* Angular
   * experience with controllers and two-way data binding
 *
 
