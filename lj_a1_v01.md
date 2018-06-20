@@ -253,6 +253,26 @@ Majority-rule where each vote members' vote has equal weighting.
 - A description of the artefact the task will produce.
 - Who is responsible for managing the task to completion.
 
+#### User stories (we need to create trello cards for these):
+
+ - As a user I should be able to register on the site
+ - As a registered user I should be able to login to the sire with my details
+ - As a user I should be able to logout
+ - As a user I should not be able to see data I am unauthorised to see
+ - As a user I should be able to view all the tournaments I can enter
+ - As a user I should be able enter a tournament
+ - As a user I should be able to make my picks for the tournament
+ - As a user I should be notified when I need to make picks
+ - As a user I should be able to see my score for the week
+ - As a user I should be able to view where I stand on the leaderboard
+ - As a user I should be able to edit my profile information
+ - As a user I should be notified of my placing at the end of a tournament
+
+#### Infrastructure Tasks
+ - Setup continuous integration pipeline
+ - Setup Dev and QA environments
+ - Setup 'one-click' deployments
+
 ### Part 4 - *Professionalism*
 *Font **must** be Arial 12*
 *Figures must be clearly labelled*
