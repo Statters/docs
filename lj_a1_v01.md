@@ -75,7 +75,7 @@ bio
 #### Adam Rowsell
 bio
 
-#### Shae Tatlock`
+#### Shae Tatlock
 bio
 
 ### Demonstrable Outcomes
@@ -107,7 +107,7 @@ At each stage, a more technical testing process could be followed - i.e. seleniu
 
 1. Our system should source tournament and game data in real-time from APIs for tournaments where an API is available.
 This can be tested by entering static data into the database that differs from that currently being reported by an API, and using the website to see if it displays that static data or if it has retrieved data using the API and displayed that instead.
-
+1. The system should have the ability to 'crowd-source' result information. i.e. Users can enter the score for a game and once a threshold of submitted results have been submitted, the results for the game will be updated and players scored on their picks
 
 ### Project Motivation
 *describe what motivated the group to choose this project*
