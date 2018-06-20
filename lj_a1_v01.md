@@ -129,17 +129,20 @@ This can be tested by entering static data into the database that differs from t
   * parsing JSON data from different sources
 * Angular
   * experience with controllers and two-way data binding
-*
-
+* Using Node and Express as a backend API technology
+* Using a NoSQL/non-relational database for data storage
+* Managing and coordinating a distributed team across the different time zones
 
 #### Project Risks
 *list 3 project risks that would majorly interfere with project outcome*
 1. API goes offline/changes output format: After implementing the extended feature for real-time data integration utilizing an API/a number of APIs, it is possible that the API may go offline, or that the way it structures output data could change. We could attempt to limit this issue by designing our system to be capable of sourcing data for one tournament from a number of different APIs, to retain realtime functionality even when one API is unavailable. Otherwise the last retrieved realtime data would be stored in the database and accessed instead, thus limiting the problem (though not solving it completely). In a real-world solution we would also want a notification to be sent to an administrator when this issue is encountered.
 2. Feature creep: It is conceivable that we might be tempted at some stage to add functionality beyond that we are originally planning on. If we end up attempting to add significant additional functionality that could divert effort away from fulfilling the originally planned features/extended features. We can minimize this issue by discussing any new ideas as we have them to determine whether implementing such ideas could cause a problem in this way, and if so whether we really want to work on it or not.
+3. Key man dependencies: With certain individuals more experienced than others, we could see silos of responsibility. One person might end up being the only one able to solve certain tasks, putting pressure on the particular person and on project delivery.
 
 *list 3 team dynamics related challenges that would delay project's progress*
 1. Time difference of team members: Having team members in significantly different timezones can make realtime collaboration hard. We can face this issue by ensuring that we fully leverage non realtime collaborative opportunities, and make the most of what time we are able to schedule that suits all team members.
 2. Varied skill level of team members: As we have some team members who are much more experienced than others, it is not inconceivable that we may end up with the bulk of the technical work falling to them, with other team members feeling incapable of contributing in a meaningful way to a project using technologies they do not feel they fully understand. The best way to tackle this potential issue would be to both ensure that the less-experienced team members are contributing time regularly to the task of getting themselves up to speed on the chosen technologies, and that the more experienced team members take care to limit use of the more complex features provided by the technologies utilized.
+3. Poor team member commitment has the potential to derail the project, putting far too much pressure on the more committed individuals of the team. This also shrinks the about of internal team feedback on both the end product and quality of code. 
 
 *for each risk and challenge indicate how we propose to monitor and minimise the issue arising* [MG this sure sounds a lot like SEPM in 3rd year!]
 
