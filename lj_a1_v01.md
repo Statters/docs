@@ -170,12 +170,20 @@ This can be tested by entering static data into the database that differs from t
 * Cross platform
     * Team members use Windows, Linux and Mac
 
+###### Alternatives
+* PHP
+* Java
+* Python
+
+
 ##### Angular
 ###### A front-end single page application framework
 
 * Allows for rapid creation of SPA applications
 * Small learning curve
 * Comes with a CLI tool to handle generation of boilerplate code and building of the application
+
+###### Alternatives
 
 ##### Mongo
 ###### NoSQL database
@@ -202,6 +210,9 @@ This can be tested by entering static data into the database that differs from t
 * Facilitates responsive design out-of-the-box
 * Actively developed and updated
 
+###### Alternatives
+* Semantic
+* Material CSS
 
 *Each tool/resource needs*
 - Name
@@ -209,7 +220,6 @@ This can be tested by entering static data into the database that differs from t
 - rationale for using
 - specific version and cost (if any?)
 - describe any alternatives not used
-
 
 
 #### Collaborative Workspaces
@@ -220,6 +230,7 @@ This can be tested by entering static data into the database that differs from t
 - [Slack](https://rmitlatejoiners.slack.com)
 - [Google Docs](https://docs.google.com)
 - Google Hangouts
+
 
 #### Communications Expectations
 - *List tools to communicate*
