@@ -107,7 +107,9 @@ At each stage, a more technical testing process could be followed - i.e. seleniu
 
 1. Our system should source tournament and game data in real-time from APIs for tournaments where an API is available.
 This can be tested by entering static data into the database that differs from that currently being reported by an API, and using the website to see if it displays that static data or if it has retrieved data using the API and displayed that instead.
-1. The system should have the ability to 'crowd-source' result information. i.e. Users can enter the score for a game and once a threshold of submitted results have been submitted, the results for the game will be updated and players scored on their picks
+2. The system should have the ability to 'crowd-source' result information. i.e. Users can enter the score for a game and once a threshold of submitted results have been submitted, the results for the game will be updated and players scored on their picks
+3. Our system should have a suitable schedule and process for automatic backups of the database. [detail on database backup validation to come]
+
 
 ### Project Motivation
 *describe what motivated the group to choose this project*
@@ -293,7 +295,7 @@ Majority-rule where each vote members' vote has equal weighting.
 #### User stories (we need to create trello cards for these):
 
  - As a user I should be able to register on the site
- - As a registered user I should be able to login to the sire with my details
+ - As a registered user I should be able to login to the site with my details
  - As a user I should be able to logout
  - As a user I should not be able to see data I am unauthorised to see
  - As a user I should be able to view all the tournaments I can enter
@@ -304,11 +306,15 @@ Majority-rule where each vote members' vote has equal weighting.
  - As a user I should be able to view where I stand on the leaderboard
  - As a user I should be able to edit my profile information
  - As a user I should be notified of my placing at the end of a tournament
+ - As a user I should be able to delete my account
+ - As a user I should be able to view the site on my mobile device
+ - As a user I should be able to view the site on the desktop browser of my choice
 
 #### Infrastructure Tasks
  - Setup continuous integration pipeline
  - Setup Dev and QA environments
  - Setup 'one-click' deployments
+
 
 ### Part 4 - *Professionalism*
 *Font **must** be Arial 12*
