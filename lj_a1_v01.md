@@ -309,6 +309,8 @@ Majority-rule where each vote members' vote has equal weighting.
  - As a user I should be able to delete my account
  - As a user I should be able to view the site on my mobile device
  - As a user I should be able to view the site on the desktop browser of my choice
+ - As a user I should have a choice of avatar to represent me on the site
+ - As a user I should have the ability to select a unique handle which identifies me on the site
 
 #### Infrastructure Tasks
  - Setup continuous integration pipeline
