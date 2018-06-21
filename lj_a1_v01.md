@@ -85,19 +85,19 @@ bio
 *list 5 features and explain how we will validate it has been implemented*
 
 1. Our system should be able to store information about user accounts, and allow users to create new accounts or delete their currently existing account.
-Once implemented this can be tested by attempting to create a number of new accounts, and manually inspecting the database contents after that has been done, then deleting an account and manually inspecting database contents to ensure they match expectations.
+   Once implemented this can be tested by attempting to create a number of new accounts, and manually inspecting the database contents after that has been done, then deleting an account and manually inspecting database contents to ensure they match expectations.
 
 2. Our system should be capable of storing information on various soccer tournaments in a mongoDB instance.
-Once implemented, we can test this by attempting to populate the database with static data and subsequently manually inspecting database contents to ensure they are what they should be.
+   Once implemented, we can test this by attempting to populate the database with static data and subsequently manually inspecting database contents to ensure they are what they should be.
 
 3. Our system should be able to display information on overall tournaments as well as individual matches to the user.
-Once implemented, we can test this by manually checking the database to see what tournaments should be displayed to the user, and then using the system to verify that that does occur. Same process can be followed to perform a spot check on an individual match to ensure the system is showing the user the information it should be.
+   Once implemented, we can test this by manually checking the database to see what tournaments should be displayed to the user, and then using the system to verify that that does occur. Same process can be followed to perform a spot check on an individual match to ensure the system is showing the user the information it should be.
 
 4. Our system should allow the user to nominate their picks for the currently chosen match (whether simply picking who they think will win or the final score), with this data then being saved in the database.
-Once implemented, we can test this by manually inspecting the database and ensuring that the picks data we have entered via the website has in fact been saved to the database as it should have been.
+   Once implemented, we can test this by manually inspecting the database and ensuring that the picks data we have entered via the website has in fact been saved to the database as it should have been.
 
 5. Our system should display to users the actual results for games that have concluded where that user had a pick, as well as data about their overall picking record.
-Manual inspection of the database can be used to ensure that data shown on the results page is correct, both in terms of the game result and the user's pick/whether or not the user's pick was correct/that user's overall picking record to this point
+   Manual inspection of the database can be used to ensure that data shown on the results page is correct, both in terms of the game result and the user's pick/whether or not the user's pick was correct/that user's overall picking record to this point
 
 At each stage, a more technical testing process could be followed - i.e. selenium (or something similar) could be used to automate the process of extensively testing objective #3 (i.e. to ensure that ALL tournaments in the database are displayed, and that ALL information for those tournaments is viewable, and the same for individual games, as opposed to manual spot checks of individual tournaments/games)
 
@@ -106,8 +106,9 @@ At each stage, a more technical testing process could be followed - i.e. seleniu
 *list at least 3 and explain how we will validate it has been implemented*
 
 1. Our system should source tournament and game data in real-time from APIs for tournaments where an API is available.
-This can be tested by entering static data into the database that differs from that currently being reported by an API, and using the website to see if it displays that static data or if it has retrieved data using the API and displayed that instead.
+   This can be tested by entering static data into the database that differs from that currently being reported by an API, and using the website to see if it displays that static data or if it has retrieved data using the API and displayed that instead.
 2. The system should have the ability to 'crowd-source' result information. i.e. Users can enter the score for a game and once a threshold of submitted results have been submitted, the results for the game will be updated and players scored on their picks
+   
 3. Our system should have a suitable schedule and process for automatic backups of the database. [detail on database backup validation to come]
 
 
@@ -139,13 +140,17 @@ This can be tested by entering static data into the database that differs from t
 
 #### Project Risks
 *list 3 project risks that would majorly interfere with project outcome*
-1. API goes offline/changes output format: After implementing the extended feature for real-time data integration utilizing an API/a number of APIs, it is possible that the API may go offline, or that the way it structures output data could change. We could attempt to limit this issue by designing our system to be capable of sourcing data for one tournament from a number of different APIs, to retain realtime functionality even when one API is unavailable. Otherwise the last retrieved realtime data would be stored in the database and accessed instead, thus limiting the problem (though not solving it completely). In a real-world solution we would also want a notification to be sent to an administrator when this issue is encountered.
-2. Feature creep: It is conceivable that we might be tempted at some stage to add functionality beyond that we are originally planning on. If we end up attempting to add significant additional functionality that could divert effort away from fulfilling the originally planned features/extended features. We can minimize this issue by discussing any new ideas as we have them to determine whether implementing such ideas could cause a problem in this way, and if so whether we really want to work on it or not.
+1. API goes offline/changes output format: After implementing the extended feature for real-time data integration utilizing an API/a number of APIs, it is possible that the API may go offline, or that the way it structures output data could change.
+   We could attempt to limit this issue by designing our system to be capable of sourcing data for one tournament from a number of different APIs, to retain realtime functionality even when one API is unavailable. Otherwise the last retrieved realtime data would be stored in the database and accessed instead, thus limiting the problem (though not solving it completely). In a real-world solution we would also want a notification to be sent to an administrator when this issue is encountered.
+2. Scope/Feature creep: It is conceivable that we might be tempted at some stage to add functionality beyond that we are originally planning on. If we end up attempting to add significant additional functionality that could divert effort away from fulfilling the originally planned features/extended features.
+   We can minimize this issue by discussing any new ideas as we have them to determine whether implementing such ideas could cause this sort of problem, and if so whether we really want to work on it or not.
 3. Key man dependencies: With certain individuals more experienced than others, we could see silos of responsibility. One person might end up being the only one able to solve certain tasks, putting pressure on the particular person and on project delivery.
 
 *list 3 team dynamics related challenges that would delay project's progress*
-1. Time difference of team members: Having team members in significantly different timezones can make realtime collaboration hard. We can face this issue by ensuring that we fully leverage non realtime collaborative opportunities, and make the most of what time we are able to schedule that suits all team members.
-2. Varied skill level of team members: As we have some team members who are much more experienced than others, it is not inconceivable that we may end up with the bulk of the technical work falling to them, with other team members feeling incapable of contributing in a meaningful way to a project using technologies they do not feel they fully understand. The best way to tackle this potential issue would be to both ensure that the less-experienced team members are contributing time regularly to the task of getting themselves up to speed on the chosen technologies, and that the more experienced team members take care to limit use of the more complex features provided by the technologies utilized.
+1. Time difference of team members: Having team members in significantly different timezones can make realtime collaboration hard. 
+   We can face this issue by ensuring that we fully leverage non realtime collaborative opportunities, and make the most of what time we are able to schedule that suits all team members.
+2. Varied skill level of team members: As we have some team members who are much more experienced than others, it is not inconceivable that we may end up with the bulk of the technical work falling to them, with other team members feeling incapable of contributing in a meaningful way to a project using technologies they do not feel they fully understand.
+   The best way to tackle this potential issue would be to both ensure that the less-experienced team members are contributing time regularly to the task of getting themselves up to speed on the chosen technologies, and that the more experienced team members take care to limit use of the most complex features provided by the technologies utilized.
 3. Poor team member commitment has the potential to derail the project, putting far too much pressure on the more committed individuals of the team. This also shrinks the about of internal team feedback on both the end product and quality of code.
 
 *for each risk and challenge indicate how we propose to monitor and minimise the issue arising*
