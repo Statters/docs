@@ -307,34 +307,14 @@ Majority-rule where each vote members' vote has equal weighting.
 - Planned Start and End Date
 - Lead by (member's name)
 
-Blair:
-
-Week 3: learn git commandline basics, start working on official angular tutorial, do some reading on mongoDB, contribute to assignment 1. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
-
-Week 4: expand on git commandline knowledge, investigate git gui applications, create situation in personal repository where a merge is required and merge using commandline tools, repeat process with gui tools, complete work on official angular tutorial. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
-
-Week 5: find tutorials for mondogb, express and nodejs. Start working on mongodb and express tutorials. Practise and extend knowledge of angularjs by working on small personal project. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
-
-Week 6: complete mongodb and express tutorials. Start working on nodejs tutorial. Find whole-stack tutorials and start working on at least one. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
-
-Week 7: expand mongodb and express knowledge working on small personal projects. Complete nodejs and the whole stack mean tutorial started previous week, and if time complete another whole stack tutorial as well as working on small personal project utilizing whole stack with an aim towards expanding whole-stack knowledge. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
-
-Week 8: Determine with other group members what precise data we need in the database. Determine what mongodb collections we should set up. Source APIs providing relevant data and write python script to retrieve and process the data as required, and subsequent insert it into mongoDB. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
-
-Week 9:
-Contribute to development of express and nodejs functions, and work on documentation. If anything further needs doing with mongodb, work on it. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
-
-Week 10:
-Contribute to documentation, express, nodejs, angular functions as required, as well as testing. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
-
-Week 11: Contribute to testing, documentation, any programming tasks required at this stage. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
-
-Week 12: Final testing and bugfixing, documentation. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
-
 ##### Week 3:
  - Luke
  - Matt
  - Blair
+   - Get up to speed on git commandline basics
+   - Start working on official angular tutorial
+   - Start reading up on mongodb
+   - Contribute to assignment 1
  - Tyrone
  - Shae
  - Everyone
@@ -346,6 +326,10 @@ Week 12: Final testing and bugfixing, documentation. Attend team and mentor meet
  - Luke
  - Matt
  - Blair
+   - Expand on git commandline knowledge
+   - Install and practise basic operations with git gui applications
+   - Use personal repository to create situation where a merge is required, and resolve using commandline tools
+   - Complete work on official angular tutorial
  - Tyrone
  - Shae
  - Everyone
@@ -357,6 +341,11 @@ Week 12: Final testing and bugfixing, documentation. Attend team and mentor meet
 - Luke
 - Matt
 - Blair
+  - Practise git merging using git gui tools
+  - Find and start working on mongoDB and express tutorials.
+  - Find nodejs tutorials.
+  - Determine if some knowledge is required of any other frameworks (i.e. bootstrap) and attain it.
+  - Expand angular knowledge by practising with small personal project
 - Tyrone
 - Shae
 - Everyone
@@ -368,6 +357,9 @@ Week 12: Final testing and bugfixing, documentation. Attend team and mentor meet
 - Luke
 - Matt
 - Blair
+  - Complete mongoDB and express tutorials
+  - Start working on nodejs tutorial.
+  - Find whole-stack tutorials and start working on one.
 - Tyrone
 - Shae
 - Everyone
@@ -379,6 +371,9 @@ Week 12: Final testing and bugfixing, documentation. Attend team and mentor meet
 - Luke
 - Matt
 - Blair
+  - Expand mongoDB and express knowledge by working on small personal projects.
+  - Complete nodejs and whole-stack tutorials.
+  - Complete small personal project utilizing the whole mean stack.
 - Tyrone
 - Shae
 - Everyone
@@ -390,6 +385,9 @@ Week 12: Final testing and bugfixing, documentation. Attend team and mentor meet
 - Luke
 - Matt
 - Blair
+  - Determine with other group members precise data required to be stored in database, and what structure is required for this data (i.e. what collections it should be split into).
+  - Source APIs providing required data.
+  - Create python script to retrieve, format as required and insert data into mongoDB
 - Tyrone
 - Shae
 - Everyone
@@ -401,6 +399,9 @@ Week 12: Final testing and bugfixing, documentation. Attend team and mentor meet
 - Luke
 - Matt
 - Blair
+  - Contribute to development of express and nodejs functions
+  - Work further with mongoDB if required
+  - Contribute to Documentation
 - Tyrone
 - Shae
 - Everyone
@@ -412,6 +413,9 @@ Week 12: Final testing and bugfixing, documentation. Attend team and mentor meet
 - Luke
 - Matt
 - Blair
+  - Contribute to nodejs, express and angular functions as required
+  - Contribute to Documentation
+  - Develop, along with other group members, testing procedures, and contribute to executing them.
 - Tyrone
 - Shae
 - Everyone
@@ -423,6 +427,9 @@ Week 12: Final testing and bugfixing, documentation. Attend team and mentor meet
 - Luke
 - Matt
 - Blair
+  - Further develop and execute test procedures
+  - Implement bugfixes as required
+  - Contribute to the addition of any final functionality
 - Tyrone
 - Shae
 - Everyone
@@ -434,6 +441,9 @@ Week 12: Final testing and bugfixing, documentation. Attend team and mentor meet
 - Luke
 - Matt
 - Blair
+  - Contribute to final testing
+  - Contribute to final bugfixing
+  - Contribute to final documentation
 - Tyrone
 - Shae
 - Everyone
