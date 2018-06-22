@@ -309,27 +309,138 @@ Majority-rule where each vote members' vote has equal weighting.
 
 Blair:
 
-Week 3: learn git commandline basics, start working on official angular tutorial, do some reading on mongoDB, contribute to assignment 1
+Week 3: learn git commandline basics, start working on official angular tutorial, do some reading on mongoDB, contribute to assignment 1. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
 
-Week 4: expand on git commandline knowledge, investigate git gui applications, create situation in personal repository where a merge is required and merge using commandline tools, repeat process with gui tools, complete work on official angular tutorial
+Week 4: expand on git commandline knowledge, investigate git gui applications, create situation in personal repository where a merge is required and merge using commandline tools, repeat process with gui tools, complete work on official angular tutorial. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
 
-Week 5: find tutorials for mondogb, express and nodejs. Start working on mongodb and express tutorials. Practise and extend knowledge of angularjs by working on small personal project.
+Week 5: find tutorials for mondogb, express and nodejs. Start working on mongodb and express tutorials. Practise and extend knowledge of angularjs by working on small personal project. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
 
-Week 6: complete mongodb and express tutorials. Start working on nodejs tutorial. Find whole-stack tutorials and start working on at least one.
+Week 6: complete mongodb and express tutorials. Start working on nodejs tutorial. Find whole-stack tutorials and start working on at least one. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
 
-Week 7: expand mongodb and express knowledge working on small personal projects. Complete nodejs and the whole stack mean tutorial started previous week, and if time complete another whole stack tutorial as well as working on small personal project utilizing whole stack with an aim towards expanding whole-stack knowledge.
+Week 7: expand mongodb and express knowledge working on small personal projects. Complete nodejs and the whole stack mean tutorial started previous week, and if time complete another whole stack tutorial as well as working on small personal project utilizing whole stack with an aim towards expanding whole-stack knowledge. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
 
-Week 8: Determine with other group members what precise data we need in the database. Determine what mongodb collections we should set up. Source APIs providing relevant data and write python script to retrieve and process the data as required, and subsequent insert it into mongoDB.
+Week 8: Determine with other group members what precise data we need in the database. Determine what mongodb collections we should set up. Source APIs providing relevant data and write python script to retrieve and process the data as required, and subsequent insert it into mongoDB. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
 
 Week 9:
-Contribute to development of express and nodejs functions, and work on documentation. If anything further needs doing with mongodb, work on it.
+Contribute to development of express and nodejs functions, and work on documentation. If anything further needs doing with mongodb, work on it. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
 
 Week 10:
-Contribute to documentation, express, nodejs, angular functions as required, as well as testing.
+Contribute to documentation, express, nodejs, angular functions as required, as well as testing. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
 
-Week 11: Contribute to testing, documentation, any programming tasks required at this stage.
+Week 11: Contribute to testing, documentation, any programming tasks required at this stage. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
 
-Week 12: Final testing and bugfixing, documentation.
+Week 12: Final testing and bugfixing, documentation. Attend team and mentor meetings, assist other group members in getting up to speed in whatever ways possible (if needed).
+
+##### Week 3:
+ - Luke
+ - Matt
+ - Blair
+ - Tyrone
+ - Shae
+ - Everyone
+   - Attend mentor meetings
+   - Attend team meetings
+   - Ask for help and assist others on slack as required
+
+##### Week 4:
+ - Luke
+ - Matt
+ - Blair
+ - Tyrone
+ - Shae
+ - Everyone
+    - Attend mentor meetings
+    - Attend team meetings
+    - Ask for help and assist others on slack as required
+
+##### Week 5:
+- Luke
+- Matt
+- Blair
+- Tyrone
+- Shae
+- Everyone
+  - Attend mentor meetings
+  - Attend team meetings
+  - Ask for help and assist others on slack as required
+
+##### Week 6:
+- Luke
+- Matt
+- Blair
+- Tyrone
+- Shae
+- Everyone
+  - Attend mentor meetings
+  - Attend team meetings
+  - Ask for help and assist others on slack as required
+
+##### Week 7:
+- Luke
+- Matt
+- Blair
+- Tyrone
+- Shae
+- Everyone
+  - Attend mentor meetings
+  - Attend team meetings
+  - Ask for help and assist others on slack as required
+
+##### Week 8:
+- Luke
+- Matt
+- Blair
+- Tyrone
+- Shae
+- Everyone
+  - Attend mentor meetings
+  - Attend team meetings
+  - Ask for help and assist others on slack as required
+
+##### Week 9:
+- Luke
+- Matt
+- Blair
+- Tyrone
+- Shae
+- Everyone
+  - Attend mentor meetings
+  - Attend team meetings
+  - Ask for help and assist others on slack as required
+
+##### Week 10:
+- Luke
+- Matt
+- Blair
+- Tyrone
+- Shae
+- Everyone
+  - Attend mentor meetings
+  - Attend team meetings
+  - Ask for help and assist others on slack as required
+
+##### Week 11:
+- Luke
+- Matt
+- Blair
+- Tyrone
+- Shae
+- Everyone
+  - Attend mentor meetings
+  - Attend team meetings
+  - Ask for help and assist others on slack as required
+
+##### Week 12:
+- Luke
+- Matt
+- Blair
+- Tyrone
+- Shae
+- Everyone
+  - Attend mentor meetings
+  - Attend team meetings
+  - Ask for help and assist others on slack as required
+
 
 *Linked Trello card should include*
 - A descriptive title
