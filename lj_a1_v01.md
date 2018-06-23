@@ -310,6 +310,8 @@ Majority-rule where each vote members' vote has equal weighting.
 ##### Week 3:
  - Luke
  - Matt
+   - [Complete skeleton of A1 as Markdown doc and push to repo](https://trello.com/c/zLrbHVaX)
+	 - [Work on A1](https://trello.com/c/NyfkPtWJ)
  - Blair
    - Get up to speed on git commandline basics
    - Start working on official angular tutorial
@@ -318,13 +320,14 @@ Majority-rule where each vote members' vote has equal weighting.
  - Tyrone
  - Shae
  - Everyone
-   - Attend mentor meetings
-   - Attend team meetings
+   - [Attend team meetings](https://trello.com/c/OFcKaBRi)
    - Ask for help and assist others on slack as required
 
 ##### Week 4:
  - Luke
  - Matt
+   - [Angular CLI; download locally and familiarise with platform](https://trello.com/c/UtqNinJp)
+	 - [Complete work on A1](https://trello.com/c/wZsXDKRw)
  - Blair
    - Expand on git commandline knowledge
    - Install and practise basic operations with git gui applications
@@ -333,13 +336,17 @@ Majority-rule where each vote members' vote has equal weighting.
  - Tyrone
  - Shae
  - Everyone
-    - Attend mentor meetings
-    - Attend team meetings
+    - [Attend mentor meetings](https://trello.com/c/mflqUv3Z)
+    - [Attend team meetings](https://trello.com/c/n0tX0yuz)
     - Ask for help and assist others on slack as required
 
 ##### Week 5:
 - Luke
 - Matt
+  - [Angular CLI; adapt existing knowledge to web paradigm](https://trello.com/c/mcKUmMWh)
+	- [Angular CLI; controllers and routing, two-way data binding](https://trello.com/c/mcKUmMWh)
+	- [Gather reference material from existing sites](https://trello.com/c/IQTfktQm)
+	- [Commence work on A2](https://trello.com/c/v4crUofR)
 - Blair
   - Practise git merging using git gui tools
   - Find and start working on mongoDB and express tutorials.
@@ -356,6 +363,9 @@ Majority-rule where each vote members' vote has equal weighting.
 ##### Week 6:
 - Luke
 - Matt
+  - [mongoDB; familarise with DB and mongoose integration APIs](https://trello.com/c/XkazyeO9)
+	- [A2 initial prototyping](https://trello.com/c/8IExsoHR)
+	- [Investigate API resources](https://trello.com/c/sE7T0qWs)
 - Blair
   - Complete mongoDB and express tutorials
   - Start working on nodejs tutorial.
@@ -363,13 +373,16 @@ Majority-rule where each vote members' vote has equal weighting.
 - Tyrone
 - Shae
 - Everyone
-  - Attend mentor meetings
-  - Attend team meetings
+  - [Attend mentor meetings](https://trello.com/c/almyY9fs)
+  - [Attend team meetings](https://trello.com/c/v9JO6rU8)
   - Ask for help and assist others on slack as required
 
 ##### Week 7:
 - Luke
 - Matt
+  - [A2 Prototyping continued](https://trello.com/c/uYFiC4PN)
+	- [Bootstrap customisation testing](https://trello.com/c/8Nv1ypBL)
+	- [Prototype models](https://trello.com/c/KFtLsDAq)
 - Blair
   - Expand mongoDB and express knowledge by working on small personal projects.
   - Complete nodejs and whole-stack tutorials.
@@ -377,13 +390,17 @@ Majority-rule where each vote members' vote has equal weighting.
 - Tyrone
 - Shae
 - Everyone
-  - Attend mentor meetings
-  - Attend team meetings
+  - [Attend mentor meetings](https://trello.com/c/HqnmBPOP)
+  - [Attend team meetings](https://trello.com/c/TrvxvxBO)
   - Ask for help and assist others on slack as required
 
 ##### Week 8:
 - Luke
 - Matt
+  - [Complete collation and submission of A2](https://trello.com/c/mpRa02Oe)
+	- [Responsive design testing with bootstrap](https://trello.com/c/OdUYQdQG)
+	- [Prototype Component Templates](https://trello.com/c/J8g34RzN)
+
 - Blair
   - Determine with other group members precise data required to be stored in database, and what structure is required for this data (i.e. what collections it should be split into).
   - Source APIs providing required data.
@@ -391,13 +408,14 @@ Majority-rule where each vote members' vote has equal weighting.
 - Tyrone
 - Shae
 - Everyone
-  - Attend mentor meetings
-  - Attend team meetings
+  - [Attend mentor meetings](https://trello.com/c/YspwXIpZ)
+  - [Attend team meetings](https://trello.com/c/j7RVoRqX)
   - Ask for help and assist others on slack as required
 
 ##### Week 9:
 - Luke
 - Matt
+  - [Integrate Static Data for testing](https://trello.com/c/2fKunXlC)
 - Blair
   - Contribute to development of express and nodejs functions
   - Work further with mongoDB if required
@@ -405,13 +423,14 @@ Majority-rule where each vote members' vote has equal weighting.
 - Tyrone
 - Shae
 - Everyone
-  - Attend mentor meetings
-  - Attend team meetings
+  - [Attend mentor meetings](https://trello.com/c/4i0G28QB)
+  - [Attend team meetings](https://trello.com/c/qI56jS2b)
   - Ask for help and assist others on slack as required
 
 ##### Week 10:
 - Luke
 - Matt
+  - [Commence User Testing](https://trello.com/c/EHpkm8ku)
 - Blair
   - Contribute to nodejs, express and angular functions as required
   - Contribute to Documentation
@@ -419,13 +438,14 @@ Majority-rule where each vote members' vote has equal weighting.
 - Tyrone
 - Shae
 - Everyone
-  - Attend mentor meetings
-  - Attend team meetings
+  - [Attend mentor meetings](https://trello.com/c/zFQ5vYRf)
+  - [Attend team meetings](https://trello.com/c/Hu83jXih)
   - Ask for help and assist others on slack as required
 
 ##### Week 11:
 - Luke
 - Matt
+  - [Final bug-list](https://trello.com/c/31zwUYlO)
 - Blair
   - Further develop and execute test procedures
   - Implement bugfixes as required
@@ -433,13 +453,15 @@ Majority-rule where each vote members' vote has equal weighting.
 - Tyrone
 - Shae
 - Everyone
-  - Attend mentor meetings
-  - Attend team meetings
+  - [Attend mentor meetings](https://trello.com/c/RQYXKaMy)
+  - [Attend team meetings](https://trello.com/c/B8HgbfnZ)
   - Ask for help and assist others on slack as required
 
 ##### Week 12:
 - Luke
 - Matt
+  - [Final Testing](https://trello.com/c/U3JsEpDL)
+  - [Submit A3](https://trello.com/c/iMvQNgmN)
 - Blair
   - Contribute to final testing
   - Contribute to final bugfixing
@@ -447,8 +469,8 @@ Majority-rule where each vote members' vote has equal weighting.
 - Tyrone
 - Shae
 - Everyone
-  - Attend mentor meetings
-  - Attend team meetings
+  - [Attend mentor meetings](https://trello.com/c/1MAZpAlO)
+  - [Attend team meetings](https://trello.com/c/KQm3WGR2)
   - Ask for help and assist others on slack as required
 
 
