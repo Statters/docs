@@ -313,7 +313,8 @@ Majority-rule where each vote members' vote has equal weighting.
    - [Complete skeleton of A1 as Markdown doc and push to repo](https://trello.com/c/zLrbHVaX)
 	 - [Work on A1](https://trello.com/c/NyfkPtWJ)
  - Blair
-   - Get up to speed on git commandline basics
+   - [Get up to speed on git commandline basics](https://trello.com/c/ZCnaGG8U)
+   - [Complete markdown tutorial](https://trello.com/c/Nl8Wuy7k)
  - Tyrone
  - Shae
  - Everyone
@@ -327,8 +328,8 @@ Majority-rule where each vote members' vote has equal weighting.
    - [Angular CLI; download locally and familiarise with platform](https://trello.com/c/UtqNinJp)
 	 - [Complete work on A1](https://trello.com/c/wZsXDKRw)
  - Blair
-   - Start working on official angular tutorial
-   - Start reading up on mongodb
+   - [Start working on official angular tutorial](https://trello.com/c/VBvodFEy)
+   - [Start reading up on mongodb](https://trello.com/c/TELPP1kc)
  - Tyrone
  - Shae
  - Everyone
@@ -345,12 +346,11 @@ Majority-rule where each vote members' vote has equal weighting.
 	- [Gather reference material from existing sites](https://trello.com/c/IQTfktQm)
 	- [Commence work on A2](https://trello.com/c/v4crUofR)
 - Blair
-  - Install and practise basic operations with git gui applications
-  - Use personal repository to create situation where a merge is required, and resolve using commandline tools
-  - Complete work on official angular tutorial
-  - Practise git merging using git gui tools
-  - Find mongoDB tutorial and start working on it
-  - Determine if some knowledge is required of any other frameworks (i.e. bootstrap) and attain it.
+  - [Install git gui application(s) and practise basic operations, and merging](https://trello.com/c/8StRyM9K)
+  - [Practise merging using commandline git tools](https://trello.com/c/SpEFaXSM)
+  - [Complete work on official angular tutorial](https://trello.com/c/wRwx59ap)
+  - [Find mongoDB tutorial and start working on it](https://trello.com/c/zevU1ayZ)
+  - [Determine if some knowledge is required of any other frameworks (i.e. bootstrap) and if so formulate plan to attain it](https://trello.com/c/ZmpI8BiM)
 - Tyrone
 - Shae
 - Everyone
@@ -366,11 +366,11 @@ Majority-rule where each vote members' vote has equal weighting.
 	- [A2 initial prototyping](https://trello.com/c/8IExsoHR)
 	- [Investigate API resources](https://trello.com/c/sE7T0qWs)
 - Blair
-  - Complete mongoDB tutorial
-  - Complete express tutorial
-  - Start working on nodejs tutorial.
-  - Start working on mean whole-stack tutorial
-  - Expand angular knowledge by practising with small personal project
+  - [Complete mongoDB tutorial](https://trello.com/c/Fd15PYlj)
+  - [Find and complete express tutorial](https://trello.com/c/hQ4LdysR)
+  - [Find and start working on nodejs tutorial](https://trello.com/c/wZ0KdEzV)
+  - [Find and start working on mean whole-stack tutorial](https://trello.com/c/4LjyC7UG)
+  - [Expand angular knowledge by practising with small personal project](https://trello.com/c/WQ50eJhg)
 - Tyrone
 - Shae
 - Everyone
@@ -386,10 +386,10 @@ Majority-rule where each vote members' vote has equal weighting.
 	- [Bootstrap customisation testing](https://trello.com/c/8Nv1ypBL)
 	- [Prototype models](https://trello.com/c/KFtLsDAq)
 - Blair
-  - Expand mongoDB and express knowledge by working on small personal projects.
-  - Complete nodejs tutorial
-  - Complete whole-stack tutorial
-  - Complete small personal project utilizing the whole mean stack.
+  - [Expand mongoDB and express knowledge by working on small personal projects](https://trello.com/c/hbAgJXfq)
+  - [Complete nodejs tutorial](https://trello.com/c/0ilcDCYL)
+  - [Complete whole-stack tutorial](https://trello.com/c/zPqQt8o2)
+  - [Complete small personal project utilizing the whole mean stack](https://trello.com/c/QnALAryM)
 - Tyrone
 - Shae
 - Everyone
@@ -406,9 +406,6 @@ Majority-rule where each vote members' vote has equal weighting.
 	- [Prototype Component Templates](https://trello.com/c/J8g34RzN)
 
 - Blair
-  - Determine with other group members precise data required to be stored in database, and what structure is required for this data (i.e. what collections it should be split into).
-  - Source APIs providing required data.
-  - Create python script to retrieve, format as required and insert data into mongoDB
 - Tyrone
 - Shae
 - Everyone
@@ -422,9 +419,6 @@ Majority-rule where each vote members' vote has equal weighting.
 - Matt
   - [Integrate Static Data for testing](https://trello.com/c/2fKunXlC)
 - Blair
-  - Contribute to development of express and nodejs functions
-  - Work further with mongoDB if required
-  - Contribute to Documentation
 - Tyrone
 - Shae
 - Everyone
@@ -437,9 +431,6 @@ Majority-rule where each vote members' vote has equal weighting.
 - Matt
   - [Commence User Testing](https://trello.com/c/EHpkm8ku)
 - Blair
-  - Contribute to nodejs, express and angular functions as required
-  - Contribute to Documentation
-  - Develop, along with other group members, testing procedures, and contribute to executing them.
 - Tyrone
 - Shae
 - Everyone
@@ -452,9 +443,6 @@ Majority-rule where each vote members' vote has equal weighting.
 - Matt
   - [Final bug-list](https://trello.com/c/31zwUYlO)
 - Blair
-  - Further develop and execute test procedures
-  - Implement bugfixes as required
-  - Contribute to the addition of any final functionality
 - Tyrone
 - Shae
 - Everyone
@@ -468,9 +456,6 @@ Majority-rule where each vote members' vote has equal weighting.
   - [Final Testing](https://trello.com/c/U3JsEpDL)
   - [Submit A3](https://trello.com/c/iMvQNgmN)
 - Blair
-  - Contribute to final testing
-  - Contribute to final bugfixing
-  - Contribute to final documentation
 - Tyrone
 - Shae
 - Everyone
